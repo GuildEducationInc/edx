@@ -4,7 +4,6 @@ require 'edx/version'
 require 'edx/http_client'
 require 'edx/client'
 require 'edx/authenticator'
-require 'edx/response'
 
 # Models
 require 'edx/models/image'
